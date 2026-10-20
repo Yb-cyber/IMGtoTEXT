@@ -1,0 +1,2 @@
+--- Página 1 [OCR] ---
+Documento escaneado simulado para probar el motor Tesseract OCR.
